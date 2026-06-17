@@ -1,0 +1,13 @@
+# Data files (too large for GitHub)
+data/silver/
+data/gold/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Spark
+derby.log
+metastore_db/
+spark-warehouse/
